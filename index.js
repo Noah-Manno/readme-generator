@@ -27,7 +27,7 @@ const questions = [
     {
         type: 'input',
         message: 'Who contributed to this project/repo?',
-        name: 'contributers',
+        name: 'contributors',
     },
     {
         type: 'input',
@@ -38,6 +38,11 @@ const questions = [
         type: 'input',
         message: 'What is your Github username?',
         name: 'github',
+    },
+    {
+        type: 'input',
+        message: 'What is your Name?',
+        name: 'name',
     },
     {
         type: 'input',
