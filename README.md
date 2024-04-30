@@ -15,7 +15,7 @@ A console-line application which allows you to generate professional readme.md f
 
 ## Installation
 
-Node.js must be used for this project to work. NPM inquirer must be included in npm dependencies. 
+Node.js must be used for this project to work. NPM inquirer must be included in npm dependencies.
 
 ## Usage
 
@@ -24,6 +24,10 @@ Once node and npm are available, all you have to do is open up your terminal and
 ## Credits
 
 Noah Manno
+
+## Contributing
+
+N/A
 
 ## License
 
