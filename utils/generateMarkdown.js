@@ -69,7 +69,7 @@ function renderLicenseSection(license) {
       return ""
       break;
     default:
-      return `##License`
+      return `## License`
       break;
   }
 }

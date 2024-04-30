@@ -25,7 +25,7 @@ Once node and npm are available, all you have to do is open up your terminal and
 
 Noah Manno
 
-##License
+## License
 
 [MIT License](https://opensource.org/license/MIT)
 
