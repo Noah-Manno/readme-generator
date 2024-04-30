@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'input',
         message: 'Who contributed to this project/repo?',
-        name: 'contributors',
+        name: 'credits',
     },
     {
         type: 'input',
@@ -50,6 +50,11 @@ const questions = [
           'No License'
         ]
       },
+      {
+        type: 'input',
+        message: 'How can people contribute to this project/repo?',
+        name: 'contributing',
+    },
     {
         type: 'input',
         message: 'What is your Github username?',

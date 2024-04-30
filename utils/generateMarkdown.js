@@ -106,7 +106,11 @@ ${data.usage}
 
 ## Credits
 
-${data.contributors}
+${data.credits}
+
+## Contributing
+
+${data.contributing}
 
 ${licenseSection}
 
