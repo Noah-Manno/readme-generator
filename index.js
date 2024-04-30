@@ -36,6 +36,21 @@ const questions = [
         name: 'tests',
     },
     {
+        type: 'list',
+        name: 'license',
+        message: 'Choose a license for your project:',
+        choices: [
+          'MIT License',
+          'Apache License 2.0',
+          'GNU General Public License v3.0 (GPL-3.0)',
+          'BSD 2-Clause "Simplified" License',
+          'BSD 3-Clause "New" or "Revised" License',
+          'Creative Commons Zero v1.0 Universal (CC0 1.0)',
+          'The Unlicense',
+          'No License'
+        ]
+      },
+    {
         type: 'input',
         message: 'What is your Github username?',
         name: 'github',
